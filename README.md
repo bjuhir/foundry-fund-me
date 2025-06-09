@@ -15,7 +15,7 @@ This is a minimal project allowing users to fund the contract owner with donatio
 ## Quickstart
 
 ```
-git clone https://github.com/bjuhir/foundry-fund-me-
+git clone https://github.com/bjuhir/foundry-fund-me
 cd foundry-fund-me
 make
 ```
